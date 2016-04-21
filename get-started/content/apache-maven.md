@@ -77,7 +77,7 @@ Most Camunda artifacts are pushed to [maven central](http://search.maven.org/#br
 ```
 
 
-# Process Aplication Ejb Client
+# Process Application Ejb Client
 
 ```xml
 <dependency>
